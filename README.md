@@ -1,3 +1,3 @@
 # game
 monster game
-qwertyui hello world
+simple game, working on some logic to make it a bit more complex 
